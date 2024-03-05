@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmunozacevedo
 - 👀 I’m interested in: Living Systems Informatics
-- 🌱 I’m currently learning: artificial intelligence, synthetic data generation, to be patient. 
-- 💞️ I’m looking to collaborate on healtcare analytics, (one-health)[https://www.who.int/health-topics/one-health#tab=tab_1], ai solutions.
+- 🌱 I’m currently learning: Artificial Intelligence, Synthetic Data, Big Data. 
+- 💞️ I’m looking to collaborate on: Healthcare analytics, (One-health)[https://www.who.int/health-topics/one-health#tab=tab_1], development of AI solutions.
 - 📫 How to reach me: gmunozacevedo@cihi.ca
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: River dolphins, such as the Amazon pink dolphin, can turn their necks 90 degrees due to extra cervical vertebrae, unlike most dolphins.
