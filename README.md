@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmunozacevedo
-- 👀 I’m interested in:  Informatics and Life Systems
+- 👀 I’m interested in: Living Systems Informatics
 - 🌱 I’m currently learning: artificial intelligence, synthetic data generation, to be patient. 
 - 💞️ I’m looking to collaborate on healtcare analytics, (one-health)[https://www.who.int/health-topics/one-health#tab=tab_1], ai solutions.
 - 📫 How to reach me: gmunozacevedo@cihi.ca
