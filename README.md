@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmunozacevedo
-- 👀 I’m interested in: Bioinformatics
+- 👀 I’m interested in: Bioinformatics, Living systems
 - 🌱 I’m currently learning: Artificial Intelligence, Clinical Administrative Databases, Synthetic Data, Big Data. 
 - 💞️ I’m looking to collaborate on: Healthcare analytics, [One-health](https://www.who.int/health-topics/one-health#tab=tab_1), AI solutions.
 - 📫 How to reach me: gmunozacevedo@cihi.ca
